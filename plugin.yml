@@ -1,0 +1,8 @@
+name: Security
+main: com.lifemcserver.security.Security
+version: 1.0
+description: Prevent players from sending own passwords to public chat.
+author: LifeMCServer
+authors: [LifeMCServer]
+website: https://www.lifemcserver.com/
+depend: [AuthMe]

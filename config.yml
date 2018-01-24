@@ -1,0 +1,4 @@
+# The message sended to player when player tries send own password to public chat.
+# Default value: §cOh! You tryed to say your password to public chat! Don't panic, we are blocked the message! :)
+# You may use color codes via "&" key. (Without " and ")
+passwordToChatBlockedMsg: §cOh! You tryed to say your password to public chat! Don't panic, we are blocked the message! :)
